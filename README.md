@@ -1,2 +1,0 @@
-# liftlog
-fitness app
